@@ -1,0 +1,6 @@
+C:\Users\vince\OneDrive\Bureau\Code\C\DragIt\DragIt\obj\Debug\DragIt.csprojAssemblyReference.cache
+C:\Users\vince\OneDrive\Bureau\Code\C\DragIt\DragIt\obj\Debug\DragIt.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Bureau\Code\C\DragIt\DragIt\bin\Debug\DragIt.dll
+C:\Users\vince\OneDrive\Bureau\Code\C\DragIt\DragIt\bin\Debug\DragIt.pdb
+C:\Users\vince\OneDrive\Bureau\Code\C\DragIt\DragIt\obj\Debug\DragIt.dll
+C:\Users\vince\OneDrive\Bureau\Code\C\DragIt\DragIt\obj\Debug\DragIt.pdb
